@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <h1 align="center">👋 Hey, I'm Aman</h1>
-<h3 align="center">💻 Passionate Full-Stack Developer | MERN | Microservices | Open Source Enthusiast 🚀</h3>
+<h3 align="center">💻 Passionate Full-Stack Developer | MERN | Microservices | Open Source Enthusiast </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>

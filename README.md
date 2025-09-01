@@ -65,6 +65,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdaman7&layout=compact&theme=tokyonight" width="48%" />
+   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" align="top" />
 </div>
 
 ---
@@ -73,7 +74,7 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Mohdaman7?theme=dark&ext=heatmap" width="400" alt="LeetCode Stats" />
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" align="top" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="Problem Solving"/>
 </div>
 
 ---
@@ -81,7 +82,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="350" alt="Coding Hard"/>
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="Problem Solving"/>
 </p>
 
 ---
